@@ -1,0 +1,51 @@
+body{
+    margin-right: 20%;
+    margin-left: 20%;
+    font-family: 'Gabarito', sans-serif;
+}
+.top{
+    margin: 30px;
+    display: flex;
+}
+.mid{
+    margin: 30px;
+    display: flex;
+    margin-right: 5%;
+    margin-left: 98px;
+}
+.heading{
+    margin-top: 140px;
+    margin-right: 20px;
+    margin-left: 75px;
+}
+.image{
+    margin-right: 60px;
+}
+.text{
+    margin-right: 350px;
+}
+h1{
+    font-size: 40px;
+    color:rgb(83, 84, 86);
+}
+p{
+    color:rgb(83, 84, 86);
+}
+li{
+    color:rgb(83, 84, 86);    
+}
+.button1{
+    margin-top: 10px;
+    padding: 8px 22px;
+    background-color: plum;
+    border: none;
+    color: white;
+}
+.button2{
+    margin-top: 10px;
+    padding: 6px 20px;
+    background-color: white;
+    border:  1px solid plum;
+    color: plum;
+
+}
